@@ -64,9 +64,10 @@ print(result);
 }
 */`
 
+```
+# or use it with a GraphQLRouter
 
-// or use it with a GraphQLRouter
-
+```es6
 'use strict';
 
 const createRouter = require('@arangodb/foxx/router');
